@@ -110,7 +110,7 @@ body {
 	justify-content: center;
 }
 
-.nav-pills .nav-link.active,
+.nav-pills .nav-link.active-tag,
 .nav-pills .show>.nav-link {
 	color: black;
 	background-color: #BEB45A;
@@ -413,6 +413,7 @@ input[type="submit"] {
 	clip: rect(1px, 1px, 1px, 1px);
 	overflow: hidden;
 }
-.carousel-control-next-icon, .carousel-control-prev-icon {
-	background-color: green;
+
+.visually-hidden{
+	color :black;
 }
