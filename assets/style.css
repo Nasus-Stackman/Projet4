@@ -417,3 +417,9 @@ input[type="submit"] {
 .visually-hidden{
 	color :black;
 }
+[itemprop] {
+    display: none;
+}
+.hidden {
+    display: none;
+}
